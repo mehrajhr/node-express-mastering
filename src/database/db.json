@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "brand": "SoundMax",
+    "category": "Electronics",
+    "price": 59.99,
+    "stock": 120,
+    "rating": 4.5,
+    "image": "https://example.com/images/headphones.jpg",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mechanical Keyboard",
+    "brand": "KeyForce",
+    "category": "Electronics",
+    "price": 89.99,
+    "stock": 75,
+    "rating": 4.7,
+    "image": "https://example.com/images/keyboard.jpg",
+    "description": "RGB mechanical keyboard with blue switches."
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Watch",
+    "brand": "FitPulse",
+    "category": "Wearables",
+    "price": 129.99,
+    "stock": 50,
+    "rating": 4.3,
+    "image": "https://example.com/images/watch.jpg",
+    "description": "Track your fitness, heart rate, and daily activities."
+  },
+  {
+    "id": 4,
+    "name": "Portable Laptop Stand",
+    "brand": "DeskPro",
+    "category": "Accessories",
+    "price": 24.99,
+    "stock": 200,
+    "rating": 4.4,
+    "image": "https://example.com/images/laptop-stand.jpg",
+    "description": "Adjustable aluminum laptop stand for better posture."
+  },
+  {
+    "id": 5,
+    "name": "USB-C Fast Charger",
+    "brand": "ChargeX",
+    "category": "Accessories",
+    "price": 19.99,
+    "stock": 300,
+    "rating": 4.6,
+    "image": "https://example.com/images/charger.jpg",
+    "description": "30W fast charger compatible with most smartphones."
+  }
+]
