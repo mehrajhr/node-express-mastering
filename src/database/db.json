@@ -37,11 +37,11 @@
     "name": "Portable Laptop Stand",
     "brand": "DeskPro",
     "category": "Accessories",
-    "price": 24.99,
-    "stock": 200,
-    "rating": 4.4,
+    "price": 300,
+    "stock": 75,
+    "rating": 4.7,
     "image": "https://example.com/images/laptop-stand.jpg",
-    "description": "Adjustable aluminum laptop stand for better posture."
+    "description": "(Updated) Adjustable aluminum laptop stand for better posture."
   },
   {
     "id": 5,
