@@ -53,16 +53,5 @@
     "rating": 4.6,
     "image": "https://example.com/images/charger.jpg",
     "description": "30W fast charger compatible with most smartphones."
-  },
-  {
-    "id": 1778765796986,
-    "name": "Gaming Mechanical Keyboard",
-    "brand": "KeyForce",
-    "category": "Electronics",
-    "price": 89.99,
-    "stock": 75,
-    "rating": 4.7,
-    "image": "https://example.com/images/keyboard.jpg",
-    "description": "RGB mechanical keyboard with blue switches."
   }
 ]
